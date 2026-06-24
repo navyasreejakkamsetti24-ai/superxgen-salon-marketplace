@@ -31,7 +31,9 @@ A digital marketplace where users can:
 
 ## Team Members
 - J. Navya Sree
-- Y.Renuka Devi 
+- Y.Renuka Devi
+  
+  LINKEDIN LINK: https://www.linkedin.com/posts/navya-sree-jakkamsetti-5721b5337_superxgenbuildathon2026-superxgenbuildathon2026-ugcPost-7475558078965370880-XUro/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFSRm-YBv5IN739p8Mv5sdIIydAJ02-graQ&utm_campaign=copy_link
 
 ## Buildathon
 Submitted for SuperXgen Buildathon 2026.
